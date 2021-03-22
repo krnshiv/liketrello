@@ -1,0 +1,7 @@
+export const ACTION_TYPES = { 
+    ADD_CARD : 'ADD_CARD',
+    EDIT_CARD : 'EDIT_CARD',
+    DELETE_CARD : 'DELETE_CARD',
+    ADD_LIST : 'ADD_LIST',
+    DELETE_LIST : 'DELETE_LIST',
+}
